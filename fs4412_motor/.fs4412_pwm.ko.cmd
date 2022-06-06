@@ -1,0 +1,1 @@
+cmd_/home/linux/cy3220/drivers/fs4412_motor/fs4412_pwm.ko := /usr/local/toolchain/toolchain-4.5.1/bin/arm-none-linux-gnueabi-ld -EL -r  -T /home/linux/cy3220/kernel/linux-3.0.15/scripts/module-common.lds --build-id  -o /home/linux/cy3220/drivers/fs4412_motor/fs4412_pwm.ko /home/linux/cy3220/drivers/fs4412_motor/fs4412_pwm.o /home/linux/cy3220/drivers/fs4412_motor/fs4412_pwm.mod.o

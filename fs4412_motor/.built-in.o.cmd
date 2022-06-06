@@ -1,0 +1,1 @@
+cmd_/home/linux/cy3220/drivers/fs4412_motor/built-in.o :=  rm -f /home/linux/cy3220/drivers/fs4412_motor/built-in.o; /usr/local/toolchain/toolchain-4.5.1/bin/arm-none-linux-gnueabi-ar rcsD /home/linux/cy3220/drivers/fs4412_motor/built-in.o
